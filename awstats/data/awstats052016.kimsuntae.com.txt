@@ -1,0 +1,385 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201605 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2571                
+POS_VISITOR 8332                
+POS_DAY 9672                
+POS_DOMAIN 3255                
+POS_LOGIN 3605                
+POS_ROBOT 3760                
+POS_WORMS 4173                
+POS_EMAILSENDER 4304                
+POS_EMAILRECEIVER 4447                
+POS_SESSION 9999                
+POS_SIDER 10173               
+POS_FILETYPES 4582                
+POS_OS 4763                
+POS_BROWSER 4884                
+POS_SCREENSIZE 5109                
+POS_UNKNOWNREFERER 5183                
+POS_UNKNOWNREFERERBROWSER 5536                
+POS_ORIGIN 5857                
+POS_SEREFERRALS 5994                
+POS_PAGEREFS 6151                
+POS_SEARCHWORDS 6299                
+POS_KEYWORDS 6451                
+POS_MISC 2235                
+POS_ERRORS 6510                
+POS_CLUSTER 3461                
+POS_SIDER_404 6619                
+POS_PLUGIN_geoip_city_maxmind 7697                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160512000345 112 21041 0
+FirstTime 0
+LastTime 20160512000345
+LastUpdate 20160512062832 112 0 57 55 0
+TotalVisits 44                  
+TotalUnique 32                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 32                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 25 9452676 6 6 17028
+1 17 127 28997786 1 13 10518
+2 10 50 5384461 5 9 21887
+3 33 128 16286927 7 16 17941
+4 3 9 211355 6 12 93404
+5 3 3 16034 6 8 96791
+6 2 7 206713 10 12 31492
+7 2 2 7368 1 1 226
+8 3 21 9425428 4 4 10102
+9 0 0 0 4 4 11288
+10 0 0 0 3 3 6237
+11 2 2 10294 10 10 31684
+12 2 2 9108 1 1 5740
+13 0 0 0 5 5 22770
+14 0 0 0 6 6 15153
+15 7 11 113719 9 10 49386
+16 0 0 0 6 6 18713
+17 1 1 4554 6 7 15650
+18 9 18 426792 96 158 1119342
+19 4 4 21774 15 21 167894
+20 11 49 24457955 9 21 143314
+21 0 0 0 0 0 0
+22 6 23 921530 7 19 8449
+23 1 1 4554 0 1 497
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+kr 70 417 95226836
+us 41 54 676912
+cn 3 3 13662
+ru 2 2 7368
+de 2 2 10294
+tr 1 1 4554
+it 1 1 5740
+fr 1 1 4554
+unknown 1 1 4554
+eu 1 1 4554
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+spider 147 1379900 20160511182524 0
+bot[+:,\.\;\/\\-] 35 187010 20160511190910 0
+yandex 15 69496 20160510093121 0
+googlebot 11 184536 20160507162224 0
+netcraft 4 11480 20160510220317 0
+surveybot 1 5740 20160510004537 0
+mj12bot 1 4554 20160507081759 0
+crawl 1 5740 20160511021711 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 139 678511 0 0
+png 32 716959 0 0
+html 106 489587 0 0
+jpg 119 92880265 0 0
+js 70 803370 0 0
+woff2 11 212184 0 0
+woff 6 178152 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+winxp 1
+winlong 1
+winnt 323
+linuxubuntu 1
+linux 139
+macosx 1
+win2003 10
+Unknown 7
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 14
+msie6.0 1
+firefox28.0 1
+msie8.0 5
+firefox40.0 21
+firefox14.0.1 10
+msie7.0 10
+firefox21.0 22
+firefox29.0 3
+firefox3.6.3 1
+msie9.0 20
+curl 1
+Unknown 6
+firefox11.0 1
+safari 381
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+shellshock-scan 20160510113301
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20160510032210
+Go_http_package 20160511190438
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20160502025152
+curl/7.43.0 20160511194348
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+shellshock-scan 20160510113301
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20160510032210
+Go_http_package 20160511190438
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20160502025152
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 61 65
+From1 0 0
+From2 11 20
+From3 0 0
+From4 51 398
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 11 20
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 1 497
+400 2 452
+404 135 66101
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 30
+http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._CB386942464_.gif 1 -
+/css/styles.css 1 -
+/sitemap.xml 1 -
+/slideshow/img1.jpg 4 http://www.kimsuntae.com/
+/4Gallery-view.html 1 -
+/robots.txt 31 -
+/th1s_1s_a_4o4.html 11 http://www.google.com/url
+/wordpress/ 1 -
+/introduction.hwp 1 -
+/slideshow/img2.jpg 1 http://www.kimsuntae.com/
+/images/2.jpg 15 http://kimsuntae.com/
+/2Bio.html 1 -
+/4Gallery.html 1 -
+/3Media.html 1 -
+/tozevvtmc.html 1 -
+/home.html 4 -
+http://www.baidu.com/robots.txt 1 -
+/css/reset.css 18 http://www.google.com/url
+/1home.html 3 -
+/a 3 -
+/Fonts/Dosis-Bold.ttf 4 http://www.kimsuntae.com/2Bio.html
+/slideshow/img3.jpg 1 http://www.kimsuntae.com/
+/xmlrpc.php 4 -
+/images/biopic.png 1 http://www.kimsuntae.com/2Bio.html
+/wp-content/plugins/showbiz/js/showbiz_admin.js 1 -
+/css/contact.css 1 -
+/CFIDE/administrator/ 1 -
+/css/Fonts/Dosis-Bold.ttf 5 http://www.kimsuntae.com/css/main.css
+/5Contact.html 1 -
+/images/3.jpg 15 http://kimsuntae.com/
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 13
+unknown 0 356 0 0
+kr_seoul_11 0 70 0 0
+us_chicago_il 0 20 0 0
+us_sterling_va 0 11 0 0
+us_washington_dc 0 10 0 0
+cn_beijing_22 0 3 0 0
+us_ann%20arbor_mi 0 3 0 0
+us_woodbridge_nj 0 3 0 0
+us_san%20diego_ca 0 2 0 0
+ru_moscow_48 0 2 0 0
+us_reno_nv 0 1 0 0
+de_aachen_07 0 1 0 0
+fr_provin_b4 0 1 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 32
+182.231.250.169 49 323 60408337 20160509083304
+203.250.143.63 15 70 25370377 20160509204354
+69.58.178.58 11 11 67901 20160510032222
+38.100.21.78 6 10 109165 20160504155635
+112.220.203.169 6 24 9448122 20160512000345 20160512000103 /
+184.154.36.184 4 7 146818 20160510181313
+184.154.36.171 3 6 142264 20160511182519
+123.59.59.52 3 3 13662 20160507124201
+184.154.36.185 2 5 137710 20160509181104
+91.77.23.142 2 2 7368 20160504073509
+69.30.226.98 1 1 4554 20160507025011
+78.47.47.188 1 1 4554 20160502221105
+184.154.36.183 1 1 4554 20160507181049
+137.226.113.7 1 1 5740 20160510193307
+107.150.46.34 1 1 4554 20160502122849
+141.212.122.145 1 1 4554 20160504012602
+141.212.122.193 1 1 4554 20160506031303
+37.187.92.25 1 1 4554 20160502114139
+54.169.97.163 1 1 5740 20160510052248
+74.91.17.180 1 1 4554 20160507025728
+66.240.213.93 1 1 5740 20160510113301
+54.211.56.52 1 1 5740 20160511053233
+54.146.158.96 1 1 4554 20160505231056
+71.6.146.186 1 1 4554 20160504171048
+107.150.32.61 1 1 4554 20160507001049
+107.150.32.59 1 1 4554 20160503155433
+141.212.122.161 1 1 5740 20160511190438
+94.23.68.199 1 1 5740 20160511194348
+213.128.81.66 1 1 4554 20160502025152
+184.154.36.186 1 1 4554 20160501203047
+5.39.222.159 1 1 4554 20160501043623
+88.182.193.46 1 1 4554 20160506033847
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20160501 2 2 9108 2
+20160502 13 36 1151101 8
+20160503 3 8 211267 3
+20160504 12 16 134749 6
+20160505 2 2 9108 2
+20160506 3 3 13662 3
+20160507 5 5 22770 5
+20160508 1 1 4554 1
+20160509 57 361 84585934 4
+20160510 15 18 218277 5
+20160511 4 7 150376 4
+20160512 6 24 9448122 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+1h+ 1
+5mn-15mn 1
+30s-2mn 1
+0s-30s 40
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/ 55 232018 40 32
+/css/font/font-awesome/fonts/fontawesome-webfont.woff2 11 212184 0 0
+/bio.html 10 80358 0 2
+/contact.html 8 26076 1 0
+/gallery.html 6 30510 0 0
+/css/font/font-awesome/fonts/fontawesome-webfont.woff 6 178152 0 1
+/HOME.html 5 17436 0 0
+/3Media.html 3 7944 0 1
+/press1.html 3 15396 0 0
+/5Contact.html 3 8442 0 2
+/ytnSuntae.html 1 5329 0 0
+/ytnSuntae1.html 2 10620 0 0
+http://www.qyer.com/ 1 4554 1 1
+/2Bio.html 2 19232 0 0
+/4Gallery.html 2 7496 0 0
+/press.html 2 10514 0 1
+/1home.html 1 4554 0 1
+http://www.mafengwo.cn/ 2 9108 2 2
+END_SIDER

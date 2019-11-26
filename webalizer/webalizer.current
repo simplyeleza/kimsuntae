@@ -1,0 +1,572 @@
+# Webalizer V2.20-01 Incremental Data - 05/12/2016 00:03:45
+2016 5 12 0 3 45
+852 453 69 59 24 41 97882486 278 113 0
+1 25 140 1 12
+22 14 150660 7 12 5
+81 50 1339087 11 21 9
+32 24 372300 7 14 6
+39 32 363758 9 21 8
+40 31 228395 11 28 18
+27 21 182809 10 17 10
+38 28 278090 14 21 14
+21 17 163328 5 13 6
+436 141 84723773 9 66 12
+57 44 360382 11 37 13
+34 29 271285 8 23 11
+25 22 9448619 1 5 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+32 26 9470201 10
+142 52 29009298 14
+60 9 5406845 11
+146 27 16305862 31
+22 14 305256 5
+11 9 112825 7
+20 13 238702 8
+4 2 8091 4
+27 23 9436524 4
+5 2 11785 3
+4 1 6734 4
+12 8 41978 9
+3 3 14848 3
+5 5 22770 5
+6 3 15153 4
+21 15 163105 12
+6 4 18713 4
+8 4 20204 4
+176 141 1546134 94
+25 22 189668 18
+72 44 24602263 16
+0 0 0 0
+43 25 930476 7
+2 1 5051 1
+0
+0
+0
+453
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+245
+0
+0
+3
+0
+0
+1
+147
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+# -urls- 
+/javascript/jquery-1.11.0.min.js
+0 25 0 771040 0 0
+/
+0 114 0 518684 99 35
+/images/landscape2.png
+0 3 0 329928 0 0
+/landscape/1.jpg
+0 15 0 397420 0 0
+/images/suntae smile.jpg
+0 9 0 32144436 0 0
+/images/img1.jpg
+0 1 0 81695 0 0
+/css/main.css
+0 14 0 38731 0 0
+/press/8.jpg
+0 3 0 214056 0 0
+/4Gallery-view.html
+0 10 0 26964 2 9
+/press1.html
+0 6 0 30792 0 0
+/5Contact.html
+0 12 0 33768 1 1
+/ytnSuntae.html
+0 4 0 21316 0 0
+/bio.html
+0 13 0 120537 0 1
+/press/5.jpg
+0 2 0 783866 0 0
+/contact.html
+0 11 0 39114 1 1
+/images/4.jpg
+0 5 0 18679980 0 0
+/css/font/font-awesome/fonts/fontawesome-webfont.woff
+0 6 0 178152 0 0
+/css/font/font-awesome/css/font-awesome.min.css
+0 23 0 230072 0 0
+/images/suntae.png
+0 23 0 346050 0 0
+/css/responsive.css
+0 37 0 1017426 0 0
+/press/4.jpg
+0 1 0 70855 0 0
+/css/style.css
+0 23 0 73784 0 0
+/introduction.hwp
+0 9 0 262656 0 0
+/press/2.jpg
+0 2 0 15690718 0 0
+/images/1.jpg
+0 16 0 4488750 0 0
+/css/reset.css
+0 23 0 18216 0 0
+/HOME.html
+0 8 0 34872 0 0
+/images/email.png
+0 1 0 7346 0 0
+/press/1.jpg
+0 2 0 5841910 0 0
+/ytnSuntae1.html
+0 5 0 26550 0 0
+/css/styles.css
+0 14 0 102340 0 0
+/3Media.html
+0 12 0 31776 0 2
+/css/slider.css
+0 23 0 5640 0 0
+/images/phone.png
+0 1 0 5321 0 0
+/css/contact.css
+0 10 0 16560 0 0
+/css/menu.css
+0 23 0 58992 0 0
+/images/downwithtext2.png
+0 1 0 4320 0 0
+/finallogo1.png
+0 3 0 23994 0 0
+/images/img7.jpg
+0 1 0 141024 0 0
+/javascript/script.js
+0 27 0 15896 0 0
+/images/img6.jpg
+0 1 0 105598 0 0
+/script.js
+0 15 0 30561 0 0
+/javascript/slider.js
+0 21 0 25992 0 0
+/images/img5.jpg
+0 1 0 81232 0 0
+/gallery.html
+0 9 0 48816 0 0
+/landscape/4.jpg
+0 15 0 4419160 0 0
+/images/3.JPG
+0 6 0 5059685 0 0
+/images/img4.jpg
+0 1 0 96905 0 0
+/icons/apache_pb.gif
+0 1 0 0 0 0
+/css/font/font-awesome/fonts/fontawesome-webfont.woff2
+0 11 0 212184 0 0
+/landscape/3.jpg
+0 15 0 598975 0 0
+/4Gallery.html
+0 11 0 41228 1 0
+/images/2.JPG
+0 6 0 3316300 0 0
+/images/img3.jpg
+0 1 0 105581 0 0
+/1home.html
+0 10 0 45540 3 0
+/landscape/2.jpg
+0 15 0 498800 0 0
+/2Bio.html
+0 12 0 105776 1 2
+/press.html
+0 5 0 26285 0 1
+/images/img2.jpg
+0 1 0 63319 0 0
+# End Of Table - urls
+# -sites- (monthly)
+static.197.116.4.46.clients.your-server.de
+0 2 0 994 1 1462807130
+/1home.html
+whiskeynetics.com
+0 4 0 1988 0 0
+-
+msnbot-157-55-39-223.search.msn.com
+0 1 0 497 1 1462979621
+/1home.html
+spider-141-8-143-187.yandex.com
+0 2 2 9108 2 1462454656
+/
+spider-141-8-143-209.yandex.com
+0 1 1 4554 1 1462273259
+/
+net143-63.paichai.ac.kr
+0 95 53 25382802 2 1462826634
+/bio.html
+crawl-66-249-69-50.googlebot.com
+0 5 2 8095 2 1462588038
+/
+ve478.venus.servdiscount-customer.com
+0 1 0 0 0 0
+-
+5.149.254.109
+0 1 0 497 1 1462100265
+-
+centos621393.aspadmin.net
+0 1 1 5740 1 1462879981
+/
+rs000672.fastrootserver.de
+0 1 0 0 0 0
+-
+smartscan04.sitelock.com
+0 201 167 1832698 11 1462991123
+/press.html
+crawl-66-249-65-76.googlebot.com
+0 2 2 11864 1 1462381935
+/
+180.97.106.37
+0 1 0 497 0 0
+-
+msnbot-157-55-39-226.search.msn.com
+0 14 10 59388 10 1462993750
+/
+spider-141-8-143-158.yandex.com
+0 12 5 27435 5 1462872681
+/
+107.150.32.59
+0 1 1 4554 1 1462290873
+/
+107.150.32.61
+0 1 1 4554 1 1462579849
+/
+msnbot-40-77-167-82.search.msn.com
+0 4 4 19402 4 1462767013
+/
+38.100.21.78
+0 11 10 109662 1 1462377395
+/1home.html
+pro59-1-88-182-193-46.fbx.proxad.net
+0 1 1 4554 1 1462505927
+/
+researchscan1.eecs.berkeley.edu
+0 3 0 1491 3 1462952494
+/
+researchscan.comsys.rwth-aachen.de
+0 2 1 6237 1 1462908788
+-
+researchscan448.eecs.umich.edu
+0 1 1 4554 1 1462504383
+/
+107.150.46.34
+0 1 1 4554 1 1462192129
+/
+crawl-66-249-65-73.googlebot.com
+0 2 1 5051 1 1462423771
+/
+112.220.203.169
+0 25 22 9448619 1 1463011425
+/
+182.231.250.169
+0 363 99 60428217 5 1462782784
+/bio.html
+mj7.naefmarco.ch
+0 2 1 5051 1 1462609079
+/1home.html
+45.55.51.239
+0 1 1 0 1 1462658693
+/
+msnbot-157-55-39-207.search.msn.com
+0 1 1 2814 1 1462476947
+/5Contact.html
+ec2-54-146-158-96.compute-1.amazonaws.com
+0 1 1 4554 1 1462489856
+/
+researchscan400.eecs.umich.edu
+0 1 1 4554 1 1462325162
+/
+spider-141-8-143-192.yandex.com
+0 5 3 14656 2 1462454660
+/
+crawl-66-249-65-70.googlebot.com
+0 3 2 75322 1 1462339342
+/
+centro-40.grapeshot.co.uk
+0 1 1 5740 1 1462933031
+/
+5.39.222.159
+0 1 1 4554 1 1462077383
+/
+msnbot-157-55-39-212.search.msn.com
+0 2 1 2996 2 1462477135
+/4Gallery-view.html
+ns3369964.ip-37-187-92.eu
+0 1 1 4554 1 1462189299
+/
+researchscan368.eecs.umich.edu
+0 1 0 226 1 1462087332
+-
+ec2-54-169-97-163.ap-southeast-1.compute.amazonaws.com
+0 1 1 5740 1 1462857768
+/
+45.55.173.27
+0 1 1 5740 1 1462875036
+/
+researchscan416.eecs.umich.edu
+0 1 1 5740 1 1462993478
+/
+msnbot-207-46-13-4.search.msn.com
+0 10 8 37426 8 1462684187
+/
+sdhc.lodgingplans.com
+0 1 1 4554 1 1462589848
+/
+li1068-122.members.linode.com
+0 1 0 497 1 1462445103
+/
+static.188.47.47.78.clients.your-server.de
+0 1 1 4554 1 1462227065
+/
+msnbot-40-77-167-26.search.msn.com
+0 11 8 39776 7 1462515012
+/
+jobqueue-listener.jobqueue.netcraft.com-ua777a51ecce14bf6b42f7bcc57a31f52u-digitalocean
+0 1 1 0 0 0
+-
+70.57.19.193
+0 1 0 497 1 1462791721
+-
+crawl-66-249-69-34.googlebot.com
+0 3 3 82135 1 1462551885
+/
+inspire.census.shodan.io
+0 3 1 5548 1 1462381848
+/
+spider-141-8-143-147.yandex.com
+0 3 3 13662 2 1462430073
+/
+159.203.75.116
+0 1 1 5740 1 1462880810
+/
+msnbot-40-77-167-71.search.msn.com
+0 2 1 29681 0 0
+-
+123.59.59.52
+0 3 3 13662 3 1462624921
+/
+ec2-54-211-56-52.compute-1.amazonaws.com
+0 1 1 5740 1 1462944753
+/
+earth.anapnea.net
+0 1 1 5740 1 1462995828
+/
+ppp91-77-23-142.pppoe.mtu-net.ru
+0 2 2 7368 1 1462347309
+/5Contact.html
+www.whois.sc
+0 2 1 6237 1 1462841137
+/
+researchscan336.eecs.umich.edu
+0 1 0 226 1 1462733136
+-
+42.159.144.101
+0 1 0 497 0 0
+-
+no-reverse-dns-configured.com
+0 1 0 497 0 0
+-
+vm.guildhost.com.br
+0 1 1 4554 1 1462589411
+/
+c-83-233-72-174.cust.bredband2.com
+0 1 0 497 0 0
+-
+185.93.185.252
+0 1 1 4554 1 1462199645
+/
+69.58.178.58
+0 14 11 69392 1 1462850542
+/press.html
+crawl-66-249-69-42.googlebot.com
+0 2 1 5051 1 1462638144
+/
+213.128.81.66
+0 1 1 4554 1 1462157512
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+112.220.203.169
+0 25 22 9448619 1 1463011425
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://kimsuntae.com/3Media.html
+1 2
+http://www.kimsuntae.com/2Bio.html
+1 5
+- (Direct Request)
+0 350
+http://kimsuntae.com/css/main.css
+1 1
+http://kimsuntae.com/press.html
+1 7
+http://kimsuntae.com/css/font/font-awesome/css/font-awesome.min.css
+1 5
+http://kimsuntae.com/ytnSuntae1.html
+1 1
+http://kimsuntae.com/contact.html
+1 41
+http://whois.domaintools.com/kimsuntae.com
+1 1
+http://kimsuntae.com/bio.html
+1 38
+http://www.google.com/url
+0 39
+http://www.kimsuntae.com/4Gallery.html
+1 10
+http://kimsuntae.com/press1.html
+1 19
+http://kimsuntae.com/index.html
+1 17
+http://www.kimsuntae.com/css/contact.css
+1 1
+http://kimsuntae.com/
+1 204
+http://www.kimsuntae.com/css/main.css
+1 3
+http://www.kimsuntae.com/
+1 12
+http://kimsuntae.com/gallery.html
+1 32
+http://kimsuntae.com/5Contact.html
+1 1
+http://kimsuntae.com/HOME.html
+1 55
+http://www.netcraft.com/survey/
+0 1
+http://www.kimsuntae.com/3Media.html
+1 3
+http://www.kimsuntae.com/5Contact.html
+1 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+0 23
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 23
+Mozilla/5.0 (X11; Linux x86_64; rv:21.0) Gecko/20100101 Firefox/21.0
+0 40
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:11.0) Gecko/20100101 Firefox/11.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+0 237
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 YaBrowser/14.10.2062.12061 Sa
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 11
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Ubuntu/11.04 Chromium/13.0.782.41 Chrome/13.0.782.41 Sa
+0 1
+Mozilla/5.0 (Windows  U  Windows NT 6.0  ru  rv:1.9.2.15) Gecko/20110303 MRA 5.7 (build 03796) Firefox/3.6.15 ( .NET CLR 3.5.
+0 1
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; AIRF)
+0 1
+Research scan, mail networkresearch@yandex.ru
+0 1
+Mozilla/5.0 (Linux; U; Android 4.3; en-us; SHW-M440S Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 114
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 11
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 6
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 13
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; A1-810 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/53
+0 1
+Go http package
+0 3
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 1
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 162
+shellshock-scan
+0 1
+curl/7.43.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+0 55
+Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 45
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 14
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 5
+masscan/1.0 (https://github.com/robertdavidgraham/masscan)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 Scan
+0 2
+Telesphoreo
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 39
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2)
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,262 @@
+<html>
+<head>
+	<!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>KIM SUNTAE WEBSITE </title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+<!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href='https://fonts.googleapis.com/css?family=Dosis:200' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="css/font/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/slider.css" />
+ 
+<!-- JAVASCRIPT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<link rel="stylesheet" href="css/menu.css">
+<link rel="stylesheet" href="css/responsive.css">
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+
+<style type="text/css"> 
+
+@media only screen and (max-width:482px) {
+#content{
+  float: left;
+  max-width: 100px;
+  border: px solid green;
+
+max-height: 400px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.photos {
+  overflow: hidden;
+  display: inline-block;
+  border: 2px solid #AB422B;
+  border-style: dashed;
+  padding: 5px;
+  margin-left: 200px;
+  width: 600px;
+  
+}
+.photos div img {
+  width: 400px;
+  padding: 10px 0;
+  margin: 20px 0;
+  float: left;
+  border-bottom: 1px solid #ddd;
+}
+.photos h1{
+  color: black;
+  font-family: 'Dosis', sans-serif;
+  border: 1px solid black;
+  text-align: center;
+  width: 100px;
+  font-size: 15pt;
+  float: right;
+  margin-top: 500px;
+}
+.photos ul.thumbs {
+  margin: 0;
+  padding: 0 0 0 10px;
+  list-style: none;
+  width: 600px;
+  float: left;
+}
+
+.photos ul.thumbs li{
+  width: 110px;
+  height: 100px;
+  margin: 0 10px 0 0;
+  padding: 0;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  border: 5px solid #ddd;
+  text-align: center;
+}
+.photos ul.thumbs li img {
+  position: absolute;
+  top: -180px;
+  left: -145px;
+}
+.photos ul.thumbs li:hover {
+  border: 5px solid #888;
+  -moz-opacity:.75;
+  filter:alpha(opacity=75);
+  opacity:.75;
+}
+
+
+</style>
+
+
+</head>
+
+
+<body>
+
+
+
+<div id="page">
+	<header>
+
+
+    <nav> 
+          <div id="logo">
+          <a href="#"><img src="images/suntae.png"> <h1>KIM SUNTAE</h1></a>
+          
+          </div>
+
+      <ul id="comp">
+                    <li><a href="index.html">Home </a> </li>
+                    <li class="dropdown">
+                      <a href="bio.html" class="dropbtn">Bio </a> 
+                      
+                      <div class="dropdown-content">
+                       
+                       <a href="bio.html">Resume</a>
+                       <a href="press1.html">Press</a>
+                    
+                     </div>
+                    </li>
+               <li><a href="gallery.html">Gallery </a>  </li>
+                    <li><a href="contact.html">Contact</a> </li>
+                    <li class="home"> <a href="#"><i class="fa fa-home fa-2x" aria-hidden="true"></i> </a> </li>
+
+       </ul>
+        
+        <a id="home" href="index.html"> <i  class="fa fa-home fa-2x" aria-hidden="true"></i> </a>
+
+         <div class="small-menu" id="small-menu">
+           <form>
+          <select name="URL" onchange="window.location.href=this.form.
+              URL.options[this.form.URL.selectedIndex].value">
+
+              <option value="index.html">HOME</option>
+              <option value="bio.html">BIO</option>
+              <option value="gallery.html">GALLERY</option>
+              <option value="contact.html">CONTACT</option>
+
+          </select>
+          </form>
+      </div>
+
+
+    </nav>
+</header>
+     
+
+    <div id="content" class="content-gallery">
+
+
+<aside>
+  <div id="social">
+          <li class="linkedin"> <a href="#"><i class="fa fa-arrow-circle-up fa-1x"> </i> </a> </li>
+          <li class="facebook"> <a href="https://www.facebook.com/%EA%B9%80%EC%84%A0%ED%83%9C-Suntae-Kim-725743727538560/"><i class="fa fa-facebook-official"> </i> </a> </li>
+         <li class="linkedin"> <a href="#"><i class="fa fa-linkedin-square"> </i> </a> </li>
+          
+          <li class="youtube"> <a href="https://www.youtube.com/channel/UC7YrAmuQaorSGnRVG_xpQXA"><i class="fa fa-youtube-square">  </i> </a> </li>
+        
+  </div>
+    
+</aside>
+
+  
+
+
+<div class="photos" id="photos">
+
+  <div id="photo_1"><img src="images/1.jpg" /></div>
+  <div id="photo_2" style="display:none;"><img src="images/2.JPG" alt="" /></div>
+  <div id="photo_3" style="display:none;"><img src="images/3.JPG" alt="" /></div>
+  <div id="photo_4" style="display:none;"><img src="images/4.jpg" alt="" /></div>
+  
+  <ul class="thumbs">
+    
+    <li><a href="javascript:void(0)" onclick="switch_product_img('photo_1', 4);"><img src="images/1.jpg" alt="" /></a></li>
+
+    <li><a href="javascript:void(0)" onclick="switch_product_img('photo_2', 4);"><img src="images/2.jpg" alt="" /></a></li>
+
+    <li><a href="javascript:void(0)" onclick="switch_product_img('photo_3', 4);"><img src="images/3.jpg" alt="" /></a></li>
+
+    <li><a href="javascript:void(0)" onclick="switch_product_img('photo_4', 4);"><img src="images/4.jpg" alt="" /></a></li>
+
+  </ul>
+
+
+</div>
+
+
+
+
+</div>
+
+
+
+    <div id="galleryFoot">
+   <footer>
+       <p class="copyright"> &copy; 2016 KIM SUNTAE ART</p>
+  </footer>
+   </div>
+
+
+</div>
+
+
+
+
+<script language="javascript" type="text/javascript">
+    function switch_product_img(divName, totalImgs) {
+      for (var i=1; i<=totalImgs; i++) {
+        var showDivName = 'photo_' + i;
+        var showObj = document.getElementById(showDivName);
+        if (showDivName == divName)
+          showObj.style.display = 'block';
+        else
+          showObj.style.display = 'none';
+        }
+      }
+    </script>
+
+
+<script src="javascript/jquery-1.11.0.min.js"></script>
+<script src="javascript/script.js"></script>
+
+</body>
+
+
+
+</html>

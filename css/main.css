@@ -1,0 +1,352 @@
+
+/* head
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+header{
+	height: 100%;
+	display: block;
+	background-color: #AB422B;
+	color: yellow;
+}
+
+@media (max-width: 400px) {
+
+header {
+	height: 100%;
+	display: block;
+	background-color: #AB422B;
+
+}
+
+#head{
+	margin: 0px auto 0px auto;
+	border: 0px solid black;
+	text-align: center;
+}
+
+}
+
+
+#head{
+	margin: 0px auto 0px auto;
+	height: 100%;
+	border: px solid black;
+	text-align: center;
+}
+
+
+
+/* logo
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+#logo{
+
+float: left;
+border: 0px solid black;
+margin-top: 5%;
+width: 450px;
+
+}
+
+
+#logoContain{
+border: 0px solid yellow;
+}
+
+#logoContain a{
+ display: block;
+ float: left;
+text-decoration: none;
+color: white;
+font-family: 'Dosis', sans-serif;
+font-size: 40pt;
+border: 0px solid lavender;
+
+}
+#logoContain img{
+    
+    display: block;
+     float: left;
+	width: 75px;
+	margin-top: 20px;
+	border: 0px solid black;
+	
+  
+}
+
+#logoContain a:hover{
+
+	color: black;
+}
+
+
+
+
+/* menu
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+#menu{
+border: px solid black;
+float: right;
+margin-top: 60px;	
+}
+#menu li {
+    display: inline;
+    color: white;
+    text-decoration: none;
+    font-family: 'Dosis', sans-serif;
+    font-size: 150%;
+    margin: 8px;
+    text-align: center;
+   }
+#menu a{
+text-decoration: none;
+color: white;
+font-family: 'Dosis', sans-serif;
+font-size: 18pt;
+text-align: center;
+}
+#menu a:hover{
+color: #AB422B;
+background-color: black;
+
+}
+
+#menu ul{
+text-align: center;
+margin: 0px auto 0px auto;
+margin-top: 50px;
+}
+
+h1{
+  font-size: 18pt;
+  display: inline;
+   font-family: 'Dosis', sans-serif;
+  margin-top: 0px;
+  width: 90px;
+  float: left;
+  margin-top: 2px;
+  margin-left: 100px;
+  border: 0px  solid black;
+}
+
+h1{
+
+}
+
+#nav{
+	height: 100px;
+}
+
+
+/* slider
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+#slider{
+margin: 0px auto 0px auto;
+margin-top: 50px;
+border: 0px  solid black;
+}
+
+#slider img{
+	width: 600px;
+	display:block;
+	margin: 0px auto 0px auto;
+}
+#products{
+margin: 0px auto 0px auto;
+margin-top: 100px;
+border: 0px  solid black;
+}
+#products img{
+	width: 300px;
+	display: block;
+	margin: 4px;
+}
+#products h2{
+text-align: center;
+margin: 0px auto 0px auto;
+}
+.products{
+	margin: 50px;
+}
+.products p{
+	margin: 0px auto 0px auto;
+	text-align: center;
+}
+footer{
+	height: 150px;
+	background-color: #AB422B;
+
+}
+footer p{
+	margin: 0px auto 0px auto;
+	text-align: center;
+	color: white;
+	font-size: 18pt;
+	font-family: 'Dosis', sans-serif;
+	padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+footer p:hover{
+
+	color: black;
+
+}
+/* About
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+#avatar{
+	margin-top: 30px;
+	border: 0px  solid black;
+	margin-left: 0px;
+}
+
+#bio{
+	margin: 0px auto 0px auto;
+	margin-top: 50px;
+	border: 0px  solid black;
+}
+#avatar img{
+  	width: 400px;
+  	margin: 0px auto 0px auto;
+  	float: left;
+  	display: inline;
+  }
+
+ img :hover{
+	opacity: 0.8;
+}
+
+#download{
+ border-radius: 25px;
+float: right;
+margin-top: 150px;
+width: 400px;
+background-color:#AB422B; 
+}
+#download p{
+	display: inline;
+    text-transform: uppercase;
+    font-size: 30pt;
+    font-family: 'Dosis', sans-serif;
+	color: white;
+	text-align: center;
+	padding-left: 40px;
+
+
+}
+#download p:hover{
+	color: black;
+}
+#biography{
+
+	margin-top: 50px;
+}
+
+#biography p {
+text-align: left;
+line-height: 1.9em;
+
+}
+
+/* gallery1
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.gallery1{
+	background-color: yellow;
+}
+
+#slider p {
+background-color: #AB422B;
+width: 600px;
+margin: 0px auto 0px auto;
+padding-top: 10px;
+color: white;
+text-align: center;
+}
+.pagination{
+	margin:0px auto 0px auto;
+}
+ul.pagination {
+    display: inline-block;
+    border: 0px solid black;
+    padding: 0;
+    margin: 0px auto 0px auto;
+}
+
+ul.pagination li {
+	display: inline;
+    text-align: center;
+
+}
+
+ul.pagination li a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+     text-align: center;
+    text-decoration: none;
+}
+#pagination{
+	width: 600px;
+	margin:0px auto 0px auto;
+
+	border: 0px solid black;
+}
+
+
+/* gallery
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+#port{
+	background-color: yellow;
+	border: 2px solid black;
+}
+
+#portfolio img {
+   
+   width: 150px;
+ clear: left;
+
+}
+
+.main{
+	border: 0px solid black;
+	margin-top: 50px;
+	
+}
+
+.main img{
+	width: 300px;
+	margin: 5px;
+}
+
+
+/* contact
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.iframe-rwd  {
+			display:block;
+			position: relative;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 50px;
+			padding-bottom: 65.25%;
+			padding-top: 30px;
+			height: 0;
+			overflow: hidden;
+		}
+
+.iframe-rwd iframe {
+			display:inline;
+			
+			
+			width: 100%;
+			height:600px;
+			margin-left: auto;
+			margin-right: auto;
+
+			
+		}
+#contact h1{
+	border: 0px solid black;
+	font-size: 32px;
+	margin-left: 0px;
+}

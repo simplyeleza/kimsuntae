@@ -1,0 +1,531 @@
+header,section,footer,aside,nav,article,figure,figcaption{
+	display: block;
+}
+
+header{
+	background-color: #AB422B;
+	width: 100%;
+	height: 150px;
+}
+footer{
+
+background-color: #AB422B;
+width: 100%;
+height: 150px;
+margin-top: 40px;
+}
+
+
+#page{
+	width: 100%;
+}
+
+#content{
+background-color: #fff;
+border: px solid black;
+margin: 0px auto 0px auto;
+margin-top: 50px;
+width: 960px;
+height: 1000px;
+}
+
+
+nav{
+border: px solid black;
+margin: 0px auto 0px auto;
+margin-bottom: 0px;
+width: 960px;	
+height: 150px;
+}
+
+nav ul{
+text-align: center;
+width: 400px;
+float: right;
+margin-top: 100px;
+border: px solid black;
+padding: 0px 0px 0px 0px;
+}
+
+nav li{
+	display: inline;
+    color: white;
+    text-decoration: none;
+    font-family: 'Dosis', sans-serif;
+    font-size: 150%;
+    margin: 5px;
+}
+
+nav a{
+text-decoration: none;
+color: white;
+font-family: 'Dosis', sans-serif;
+font-size: 20pt;
+text-align: center;
+}
+
+nav a:hover{
+	color: black;
+
+}
+
+#logo{
+display: inline;
+width: 500px;
+margin-top: 10px;
+float: left;
+border: px solid black;
+
+}
+
+#logo h1{
+	display: inline;
+	float: left;
+	margin-left: 2px;
+	color: white;
+	font-family: 'Dosis', sans-serif;
+    font-size: 50px;
+    margin-top: 90px;
+    border: px solid black;
+}
+#logo a h1:hover{
+color:black;
+
+}
+
+#logo img{
+width: 100px;
+margin-top: 60px;
+float: left;
+border: px solid black;
+}
+
+
+#cssmenu {
+  
+  visibility:hidden;
+  border: px solid black;
+  width: 100px;
+  float: right;
+  
+
+}
+
+#comp {
+	visibility: visible;
+	border: 0px solid black;
+	margin-top: 100px;
+	z-index: 70;
+}
+
+#small-menu{
+  border: px solid black;
+  visibility: hidden;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#home {
+  visibility: hidden;
+}
+#drop-bio{
+  border: px solid black;
+  margin: 0px auto 0px auto; 
+  margin-top: 100px;
+  width: 200px;
+  height: 50px;
+}
+#drop-bio a{
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  margin: 10px;
+  font-size: 20pt;
+  background:#AB422B;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-family: 'Dosis', sans-serif;
+}
+#drop-bio a:hover{
+color:black; 
+}
+
+<!-- home page css  
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+//css for the main slider 
+
+  .slider{
+  width: 960px;
+  margin-top: 100px;
+  border: px solid green; 
+  height: 500px;
+}
+.slider-viewer{
+  position: relative;
+  overflow: hidden;
+  height: 800px;
+  margin: 0px auto 0px auto;
+  border: px solid yellow;
+
+}
+.slide-group {
+  width:100%;
+  height: 600px;
+  position: relative;
+  border: px solid yellow;
+
+
+}
+.slide{
+  width: 100%;
+  height: 600px;
+  display: none;
+  position: absolute;
+  border: px solid yellow;
+
+}
+
+.slide img{
+  display: block;
+  width: 940px;
+  margin: 0px auto 0px auto;
+}
+.slide:first-child{
+  display: block;
+}
+
+<!-- press 1 css  
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+#media{
+width: 960px;
+margin: 0px auto 0px auto;
+border: px solid black;
+}
+.pressTabs{
+width: 400px;
+border: 1px solid #AB422B;
+border-style: dashed;
+margin-top: 20px;
+float: left;
+margin-left: 40px;
+
+}
+.pressTabs img{
+width:250px;
+display: block;
+padding-top: 5px;
+margin: 0px auto 0px auto;
+
+}
+.pressTabs img:hover{
+    opacity: 0.8;
+  }
+.pressTabs h1{
+text-align: center;
+font-family: 'Dosis', sans-serif;
+margin-top: 10px;
+}
+.pressTabs p{
+text-align: center;
+font-family: 'Dosis', sans-serif;
+margin-top: 10px;
+}
+
+.pagination{
+  margin:0px auto 0px auto;
+}
+ul.pagination {
+    display: inline-block;
+    border: 0px solid black;
+    padding: 0;
+    margin: 0px auto 0px auto;
+}
+
+ul.pagination li {
+  display: inline;
+  text-align: center;
+
+}
+
+ul.pagination li a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+     text-align: center;
+    text-decoration: none;
+}
+
+ul.pagination li a:hover{
+  color:#AB422B; 
+}
+#pagination{
+  width: 600px;
+  margin:0px auto 0px auto;
+  border: 0px solid black;
+}
+
+<!-- Gallery css  
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+.photos {
+  overflow: hidden;
+  border: 2px solid yellow;
+  padding: 1px;
+  width: 600px;
+  margin-top: 100px;
+  margin: 0px auto 0px auto;
+}
+.photos div img {
+  width: 600px;
+  padding: 10px 0;
+  margin: 20px 0;
+  float: left;
+  border-bottom: 1px solid #ddd;
+}
+.photos ul.thumbs {
+  margin: 0;
+  padding: 0 0 0 10px;
+  list-style: none;
+  width: 600px;
+  float: left;
+}
+
+.photos ul.thumbs li{
+  width: 110px;
+  height: 100px;
+  margin: 0 10px 0 0;
+  padding: 0;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  border: 5px solid #ddd;
+  text-align: center;
+}
+.photos ul.thumbs li img {
+  position: absolute;
+  top: -180px;
+  left: -145px;
+}
+.photos ul.thumbs li:hover {
+  border: 5px solid #888;
+  -moz-opacity:.75;
+  filter:alpha(opacity=75);
+  opacity:.75;
+}
+
+<!-- press  css  
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+.press{
+width: 960px;
+margin: 0px auto 0px auto;
+}
+.press #object{
+width: 500px;
+margin-left: 50px;
+
+}
+.press #object iframe{
+
+}
+.press h1{
+  width: 200px;
+  border: 0px solid black;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: 20px;
+font-family: 'Dosis', sans-serif;
+}
+.press p{
+margin-left: 50px;
+margin-top: 20px;
+
+}
+.press #object img{
+  width: 400px;
+}
+
+
+
+
+<!-- contact css  
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+#contact{
+width: 960px;
+}
+#contact h1{
+font-size: 30px;
+font-family: 'Dosis', sans-serif;
+}
+#map{
+width: 960px;
+margin-top: 50px;
+}
+
+.iframe-rwd  {
+      display:block;
+      position: relative;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 50px;
+      padding-bottom: 65.25%;
+      padding-top: 30px;
+      height: 0;
+      overflow: hidden;
+    }
+
+.iframe-rwd iframe {
+      display:inline;
+      
+      
+      width: 100%;
+      height:600px;
+      margin-left: auto;
+      margin-right: auto;
+      }
+
+
+
+
+
+<!-- dropdown contents  
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+   color: black;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #AB422B;
+    width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: ;
+    font-size: 20pt;
+    font-family: 'Dosis', sans-serif;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {color:black;}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+<!-- homepage css  
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+#portrait{
+width: 960px;
+height: 1600px;
+border: 3px solid green;
+margin-top: 20px;
+}
+#portrait h2{
+  font-size: 30px;
+  text-align: center;
+   font-family: 'Dosis', sans-serif;
+}
+#portrait .frames{
+width: 300px;
+height: 400px;
+float: left;
+border: px solid black;
+margin-top: 30px;
+margin-left:10px;
+}
+#portrait .frames img{
+  width: 300px;
+}
+#portrait .frames p{
+	width: 100%;
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+<!-- Footer 
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+.social ul{
+	display: inline;
+
+}
+
+footer p{
+	margin: 0px auto 0px auto;
+	text-align: center;
+	color: white;
+	font-size: 18pt;
+	font-family: 'Dosis', sans-serif;
+	padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+footer p:hover{
+
+	color: black;
+
+}
+
+<!-- ASIDE 
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+aside{
+float: left;
+border: 3px solid black;
+
+}
+
+#social{
+position: fixed;
+width: 50px;
+float: right;
+border: px solid black;
+margin-top: 150px;
+z-index: 50;
+}
+
+#social li{
+  font-size: 3em;
+  display: inline;
+  padding: 0 2%;
+
+}
+
+#social li a{
+  color:#AB422B ;
+  text-decoration: none;
+
+}
+
+#social li.facebook a:hover{
+  color: rgb(59,89,152);
+
+}
+#social li.linkedin a:hover{
+    color: rgb(0,123,182);
+}
+#social li.youtube a:hover{
+   color: rgb(187,0,0);
+}

@@ -1,0 +1,233 @@
+<div id="cv">
+      <div id="pic" class="resume">
+        <img src="images/suntae smile.jpg">
+      </div>
+
+      <div id="download" class="resume">
+        <a href="#"> <h1>DOWNLOAD RESUME</h1></a>
+      </div>
+
+
+   
+
+    </div> 
+
+
+    <div id="biography">
+
+<h1> BIOGRAPHY </h1>
+
+<p>시간의 경과를 뛰어넘는 회화의 의지 
+  김선태 화가를 처음 만난 건 1995년 3월 늦겨울에 내가 파리에서 첫 미술전을 하던 그 무렵이었다. 화가는 프랑스국립미술대학교(École nationale supérieure des Beaux-arts de Paris, France)를 졸업한지 3년이 되었고, 특유의 ‘자기방식’으로 그림작업을 하고 있었다. 낮이고 밤이고 줄곧 캔버스 앞에 앉아서 그림그리기에 몰두하는 식이 아닌, 세상을 몸으로 체화(體化)하겠다는 듯이 마치 바람처럼 여기저기 파리 구석구석과 프랑스 전역을 그는 나다니고 있었다. 일정시간 여행이나 긴 외출이 끝나면 그는 아틀리에 출입문을 걸어 잠그고 몇 며칠간 들어앉아 계속해서 우직하게 그림작업을 하는 식이었다. 어느 날 그의 아틀리에에서 마주친 그의 대형캔버스에는 그가 세상을 다니면서 겪은 세상이야기들이 겹쳐진 색면(色面)이나 덩어리진 형상으로 붓질이 그대로 드러나는 거친 질감으로 대담하게 펼쳐져 있었다.  이후 17여년 세월이 흘러 간간이 그의 전시를 볼 때마다 그의 화력(畵力)은 치열한 세상의 직관(insight)으로 회화적인 깊이를 더해가고 있었다. 화면의 겹친 색색의 섞임은 양감을 더 풍요하게 하고 과감한 덫칠은 밀도나 채도에서 경계나 구분을 지우면서 통합(統合)으로의 존재감을 표현했다. 특히 그의 회화에는 어두운 긴장감을 유발하기도 하는 색채의 함유(含有)에서 보는 이로 하여금 사색에 빠져들게 하면서 ‘색의 울림’에서 깊은 감동을 이끌어낸다. 화가의 이력이 쌓인 만큼 그가 세계를 응시(凝視)하는 눈도 보다 넓어졌고 그만큼 뚜렷해진 것이다.  언젠가 한번은 그와 얘기 중에 ‘무엇이 예술작품이 될 수 있는가’, 그리고 ‘무엇이 예술을 한다고 말할 수 있는가‘ 라는 물음을 가진 적이 있었다. 그 물음 앞에서 그나 나나 대답은 간단하고 간명했다. ‘살아있고, 보고, 움직이고, 말한다’ 였다. 단 정 직하게 온전하게 말이다.  2012. 9. 김상수 (작가, 연출가)</p>
+</div>
+
+#cv{
+width: 960px;
+margin: 0px auto 0px auto;
+border: px solid black;
+}
+#cv #pic{
+
+}
+
+#cv #pic img{
+width: 400px;
+}
+#cv #download{
+height: 200px;
+border: px solid black;
+ margin-left: 0px;
+}
+.resume{
+  width: 400;
+  float: left;
+  margin-left: 50px;
+}
+.resume a{
+  list-style: none;
+  text-decoration: none;
+  color: #AB422B;
+   
+  text-align: center;
+  margin-top: 200px;
+  font-family: 'Dosis', sans-serif;
+
+}
+.resume a h1{
+  text-align: center;
+  width: 300px;
+  margin-left: 20px;
+  border-radius: 25px;
+  font-family: 'Dosis', sans-serif;
+  font-size: 20pt;
+  margin-top: 200px;
+}
+.resume a h1:hover{
+color:black;
+
+}
+#biography{
+width: 960px;
+height: 600px;
+margin-top: 30px;
+border: 1px dashed black;
+}
+#biography h1{
+width: 200px;
+float: left;
+}
+#biography p{
+width: 600px;
+float: right;
+margin-right: 50px;
+text-align: left;
+}
+
+
+/********** MAIN PICTURE **********/
+#photo-viewer {
+  position: relative;
+  height: 300px;
+  overflow: hidden;}
+
+#photo-viewer.is-loading:after {
+  content: url('images/load.gif');
+  position: absolute;
+  top: 0;
+  left: 0;}
+
+#photo-viewer img {
+  position: absolute;
+  max-width: 100%;
+  max-height: 100%;
+  top: 50%;
+  left: 50%;}
+
+
+/********** THUMBNAILS **********/
+#thumbnails {
+  margin: 10px 5px 0 0;
+  height: 60px;}
+
+a.active {
+  opacity: 0.3;}
+
+
+/********** PARTS OF PAGES **********/
+.gallery{
+  width: 400px;
+  padding: 20px;
+  float: left;}
+
+.description {
+  width: 180px;
+  float: right;
+  padding: 20px 20px 0 0;
+  font-size: 85%;
+  line-height: 1em;}
+
+.standfirst {
+  margin: 0;}
+
+
+<script src="javascript/photo-viewer.js"></script>
+
+<div class="gallery">
+  <div id="photo-viewer">   </div>
+  
+  <div id="thumbnails">
+    <a href="img/photo-1.jpg" class="thumb active" title="Elderberry Marshmallow"><img src="img/thumb-1.jpg" alt="Elderberry Marshmallow" /></a>
+
+   <a href="" class="thumb active" title="Suntae one"> <img src="thumbnails/kim1.jpg" alt="suntae one"> </a>
+
+   <a href="" class="thumb active" title="Suntae two"> <img src="thumbnails/kim2.jpg" alt="suntae two"> </a>
+
+   <a href="" class="thumb active" title="Suntae three"> <img src="thumbnails/kim3.jpg" alt="suntae three"> </a>
+
+   <a href="" class="thumb active" title="Suntae four"> <img src="thumbnails/kim4.jpg" alt="suntae four"> </a>
+
+   <a href="" class="thumb active" title="Suntae five"> <img src="thumbnails/kim5.jpg" alt="suntae five"> </a>
+
+
+
+
+
+
+  </div>
+   
+
+</div>  
+
+#arrow{
+  
+  z-index: 60;
+  
+ }
+ #arrow aside{
+  float: right;
+ }
+#arrow a{
+  width: 50px;
+  float: right;
+  color: black;
+  text-decoration: none;
+  list-style-type: none;
+}
+#arrow a:hover{
+  color: #d4c4ab;
+}
+
+<a href="#"><i class="fa fa-arrow-circle-up fa-4x" aria-hidden="true"></i></a>
+
+
+@media screen and ( max-width: 800px ) {
+   .small-menu { 
+    display:inline;
+    position: relative;
+    top: 100px;
+    right: 100px;
+    width: 100%;
+   
+
+     
+
+
+
+
+   }
+   .large-menu { display:none; }
+}
+
+
+
+@media screen and ( min-width: 801px ) and ( max-width: 1024px ) {
+        #small-menu { display:none; 
+                     visibility: hidden;
+
+
+        }
+        .large-menu { display:inline; }
+         
+         .large-menu ul{
+         list-style-type:none;
+         }
+        .large-menu ul li {
+       display:inline;
+        }
+
+
+
+}
+
+@media screen and ( min-width: 1025px ) {
+        .small-menu { display:none; }
+        .large-menu { display:inline; }
+}
+
+
+
+
+
+
+
+

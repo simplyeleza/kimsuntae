@@ -1,0 +1,250 @@
+<html>
+<head>
+	<!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>KIM SUNTAE WEBSITE </title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+<!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href='https://fonts.googleapis.com/css?family=Dosis:200' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="css/font/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/slider.css" />
+  <link rel="stylesheet" href="css/responsive.css" >
+ 
+<!-- JAVASCRIPT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<link rel="stylesheet" href="css/menu.css">
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+
+<style type="text/css"> 
+
+div.small-menu { 
+  margin-top: 70px;
+  width: 100px;
+  float: right;
+  border: px solid green;
+  height: 50px;
+  overflow: hidden;
+ }
+
+.slider{
+  position: relative;
+  width: 960px;
+  margin-top: 100px;
+  border: px solid green; 
+  height: 500px;
+  z-index: 40;
+}
+.slider-viewer{
+  position: relative;
+  overflow: hidden;
+  height: 800px;
+  margin: 0px auto 0px auto;
+  border: px solid yellow;
+
+}
+.slide-group {
+  width:100%;
+  height: 600px;
+  position: relative;
+  border: px solid yellow;
+
+
+}
+.slide{
+  width: 100%;
+  height: 600px;
+  display: none;
+  position: absolute;
+  border: px solid yellow;
+
+}
+
+.slide img{
+  display: block;
+  width: 940px;
+  
+  margin: 0px auto 0px auto;
+}
+.slide:first-child{
+  display: block;
+}
+
+
+
+
+ 
+</style>
+
+
+</head>
+
+
+<body>
+
+
+
+<div id="page">
+	<header>
+
+
+    <nav> 
+          <div id="logo">
+          <a href="#"><img src="images/suntae.png"> <h1>KIM SUNTAE</h1></a>
+          
+          </div>
+
+      <ul id="comp" class="large-menu">
+                    <li><a href="index.html">Home </a> </li>
+
+
+                      <li class="dropdown">
+                      <a href="bio.html" class="dropbtn">Bio </a> 
+                      
+                      <div class="dropdown-content">
+      
+                       <a href="bio.html">Resume</a>
+                       <a href="press1.html">Press</a>
+                     </div>
+                    </li>
+                    <li><a href="gallery.html">Gallery </a>  </li>
+                    <li><a href="contact.html">Contact</a> </li>
+                    <li class="home"> <a href="home.html"><i class="fa fa-home fa-2x" aria-hidden="true"></i> </a> </li>
+
+       </ul>
+        
+      
+        <a id="home" href="index.html"> <i  class="fa fa-home fa-2x" aria-hidden="true"></i> </a>
+      
+
+        <div class="small-menu" id="small-menu">
+           <form>
+          <select name="URL" onchange="window.location.href=this.form.
+              URL.options[this.form.URL.selectedIndex].value">
+              <option value="index.html">HOME</option>
+              <option value="bio.html">BIO</option>
+              <option value="gallery.html">GALLERY</option>
+              <option value="contact.html">CONTACT</option>
+          </select>
+          </form>
+      </div>
+
+
+  
+
+
+
+       
+    </nav>
+</header>
+     
+
+    <div id="content">
+
+
+<aside>
+
+      
+      
+        <div id="social">
+          <li class="linkedin"> <a href="#"><i class="fa fa-arrow-circle-up fa-1x"> </i> </a> </li>
+          <li class="facebook"> <a href="https://www.facebook.com/%EA%B9%80%EC%84%A0%ED%83%9C-Suntae-Kim-725743727538560/"><i class="fa fa-facebook-official"> </i> </a> </li>
+         <li class="linkedin"> <a href="#"><i class="fa fa-linkedin-square"> </i> </a> </li>
+          
+          <li class="youtube"> <a href="https://www.youtube.com/channel/UC7YrAmuQaorSGnRVG_xpQXA"><i class="fa fa-youtube-square">  </i> </a> </li>
+        
+        </div>
+    
+</aside>
+
+     
+
+
+<div class="slider">
+
+        <div class="slide-viewer" id="slide-viewer">
+          <div class="slide-group">
+
+            <div class="slide slide-1">
+              <img src="landscape/1.jpg" alt="No two are the same" />
+            </div>
+            <div class="slide slide-2">
+              <img src="landscape/2.jpg" alt="Monsieur Mints"  />
+            </div>
+            <div class="slide slide-3">
+              <img src="landscape/3.jpg" alt="The Flower Series"  />
+            </div>
+            <div class="slide slide-4">
+              <img src="landscape/4.jpg" alt="Salt o' The Sea"  />
+            </div>
+            
+            
+          </div>
+        </div>
+
+        <div class="slide-buttons"></div>
+ </div>
+
+    <div id="portrait">
+            <h2>SUNTAE ARTWORK </h2>
+        <div class="frames">
+         <img src="images/1.jpg">
+          <p> 무제  229 x190cm 캔버스 위에혼합재료 2003
+          </p>
+        </div>  
+
+        <div class="frames">
+        <img src="images/2.JPG">
+          <p> 무제 130.5x162cm 캔버스 위에 아크릴, 혼합재료 2008
+          </p>
+        </div> 
+
+        <div class="frames">
+
+       <img src="images/3.JPG">
+        <p> 무제 162x130cm 캔버스위에 혼합재료 2007
+        </p>
+        </div> 
+
+
+     </div>
+
+    </div>
+
+
+<div id="index">
+   <footer >
+
+         <p class="copyright"> &copy; 2016 KIM SUNTAE ART</p>
+
+   
+    </footer>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+<script src="javascript/jquery-1.11.0.min.js"></script>
+<script src="javascript/slider.js"></script>
+
+</body>
+
+
+
+</html>
